@@ -1,2 +1,22 @@
 # SparkReact
- 
+## https://github.com/MichaelLynnCSU/SparkInit
+
+
+## npx create-react-app my-app
+
+cd my-app
+
+## npm start
+
+Runs the app in development mode.
+
+Open http://localhost:3000 to view it in the browser.
+
+The page will automatically reload if you make changes to the code.
+
+You will see the build errors and lint warnings in the console.
+
+Route all requests to Spark port using the respective endpoints http://localhost:8080/
+
+
+
